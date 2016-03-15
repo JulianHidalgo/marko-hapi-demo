@@ -1,6 +1,8 @@
 Marko with Hapi demo
 --------------------
 
+Mantainer: Julián Hidalgo - julian.hidalgo@gmail.com
+
 ##Usage
 
 ```bash

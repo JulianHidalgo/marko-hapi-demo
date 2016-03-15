@@ -7,7 +7,7 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Julián Hidalgo",
+  "author": "Julián Hidalgo - julian.hidalgo@gmail.com",
   "license": "ISC",
   "dependencies": {
     "hapi": "^13.2.1",
