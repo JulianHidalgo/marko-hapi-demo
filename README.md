@@ -1,4 +1,7 @@
-Usage
+Marko with Hapi demo
+--------------------
+
+##Usage
 
 ```bash
 # Clone code
